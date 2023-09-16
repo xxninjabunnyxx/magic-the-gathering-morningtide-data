@@ -1,0 +1,21 @@
+---
+object: set
+id: c41550df-7b41-41a3-85ab-8612eb2f168f
+code: mor
+mtgo_code: mor
+arena_code: mor
+tcgplayer_id: 77
+name: Morningtide
+uri: https://api.scryfall.com/sets/c41550df-7b41-41a3-85ab-8612eb2f168f
+scryfall_uri: https://scryfall.com/sets/mor
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Amor&unique=prints
+released_at: '2008-02-01'
+set_type: expansion
+card_count: 150
+printed_size: 150
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: lrw
+block: Lorwyn
+icon_svg_uri: https://svgs.scryfall.io/sets/mor.svg?1694404800

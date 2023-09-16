@@ -1,0 +1,114 @@
+---
+object: card
+id: 71265bb0-bf51-4d9d-b94c-c90adf65c55b
+oracle_id: 1bf97485-191b-466c-9590-3449466b348c
+multiverse_ids:
+- 152830
+mtgo_id: 29094
+mtgo_foil_id: 29095
+tcgplayer_id: 17986
+cardmarket_id: 18863
+name: Floodchaser
+lang: en
+released_at: '2008-02-01'
+uri: https://api.scryfall.com/cards/71265bb0-bf51-4d9d-b94c-c90adf65c55b
+scryfall_uri: https://scryfall.com/card/mor/34/floodchaser?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/7/1/71265bb0-bf51-4d9d-b94c-c90adf65c55b.jpg?1562879216
+  normal: https://cards.scryfall.io/normal/front/7/1/71265bb0-bf51-4d9d-b94c-c90adf65c55b.jpg?1562879216
+  large: https://cards.scryfall.io/large/front/7/1/71265bb0-bf51-4d9d-b94c-c90adf65c55b.jpg?1562879216
+  png: https://cards.scryfall.io/png/front/7/1/71265bb0-bf51-4d9d-b94c-c90adf65c55b.png?1562879216
+  art_crop: https://cards.scryfall.io/art_crop/front/7/1/71265bb0-bf51-4d9d-b94c-c90adf65c55b.jpg?1562879216
+  border_crop: https://cards.scryfall.io/border_crop/front/7/1/71265bb0-bf51-4d9d-b94c-c90adf65c55b.jpg?1562879216
+mana_cost: "{5}{U}"
+cmc: 6.0
+type_line: Creature — Elemental
+oracle_text: |-
+  Floodchaser enters the battlefield with six +1/+1 counters on it.
+  Floodchaser can't attack unless defending player controls an Island.
+  {U}, Remove a +1/+1 counter from Floodchaser: Target land becomes an Island until end of turn.
+power: '0'
+toughness: '0'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c41550df-7b41-41a3-85ab-8612eb2f168f
+set: mor
+set_name: Morningtide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c41550df-7b41-41a3-85ab-8612eb2f168f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mor?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/71265bb0-bf51-4d9d-b94c-c90adf65c55b/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1bf97485-191b-466c-9590-3449466b348c&unique=prints
+collector_number: '34'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Eric Fortune
+artist_ids:
+- c5562592-3387-495a-96fb-618a6a424a45
+illustration_id: 01b27158-a6c5-46cb-a25e-addc750db482
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23334
+prices:
+  usd: '0.08'
+  usd_foil: '0.20'
+  usd_etched: 
+  eur: '0.03'
+  eur_foil: '0.29'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152830
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Floodchaser&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Floodchaser&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Floodchaser
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/17986?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Floodchaser&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/29094?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

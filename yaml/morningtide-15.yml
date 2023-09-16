@@ -1,0 +1,114 @@
+---
+object: card
+id: ebe3d840-95af-4664-ace0-625f89f06a41
+oracle_id: e21ed0d0-26b1-4ffe-971a-babf37f4492c
+multiverse_ids:
+- 153279
+mtgo_id: 29196
+mtgo_foil_id: 29197
+tcgplayer_id: 18003
+cardmarket_id: 18844
+name: Kinsbaile Cavalier
+lang: en
+released_at: '2008-02-01'
+uri: https://api.scryfall.com/cards/ebe3d840-95af-4664-ace0-625f89f06a41
+scryfall_uri: https://scryfall.com/card/mor/15/kinsbaile-cavalier?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/b/ebe3d840-95af-4664-ace0-625f89f06a41.jpg?1562882255
+  normal: https://cards.scryfall.io/normal/front/e/b/ebe3d840-95af-4664-ace0-625f89f06a41.jpg?1562882255
+  large: https://cards.scryfall.io/large/front/e/b/ebe3d840-95af-4664-ace0-625f89f06a41.jpg?1562882255
+  png: https://cards.scryfall.io/png/front/e/b/ebe3d840-95af-4664-ace0-625f89f06a41.png?1562882255
+  art_crop: https://cards.scryfall.io/art_crop/front/e/b/ebe3d840-95af-4664-ace0-625f89f06a41.jpg?1562882255
+  border_crop: https://cards.scryfall.io/border_crop/front/e/b/ebe3d840-95af-4664-ace0-625f89f06a41.jpg?1562882255
+mana_cost: "{3}{W}"
+cmc: 4.0
+type_line: Creature — Kithkin Knight
+oracle_text: Knight creatures you control have double strike.
+power: '2'
+toughness: '2'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c41550df-7b41-41a3-85ab-8612eb2f168f
+set: mor
+set_name: Morningtide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c41550df-7b41-41a3-85ab-8612eb2f168f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mor?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ebe3d840-95af-4664-ace0-625f89f06a41/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ae21ed0d0-26b1-4ffe-971a-babf37f4492c&unique=prints
+collector_number: '15'
+digital: false
+rarity: rare
+flavor_text: Ambidexterity is common among kithkin. The thoughtweft links the minds
+  of the left- and right-handed, giving each the knack of the other.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Wayne Reynolds
+artist_ids:
+- afc47cec-3ccc-404e-a8c6-4d83dd504271
+illustration_id: 1f768e3b-702b-40d7-b693-1ea92565bfc2
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 5263
+penny_rank: 7202
+prices:
+  usd: '18.53'
+  usd_foil: '36.09'
+  usd_etched: 
+  eur: '16.77'
+  eur_foil: '25.65'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153279
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kinsbaile+Cavalier&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kinsbaile+Cavalier&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kinsbaile+Cavalier
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/18003?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kinsbaile+Cavalier&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/29196?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

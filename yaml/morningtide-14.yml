@@ -1,0 +1,127 @@
+---
+object: card
+id: 82a2e219-9e84-4f54-88e2-3925e48c4827
+oracle_id: b420d983-4edf-4cc1-b442-af2b67e49c76
+multiverse_ids:
+- 152977
+mtgo_id: 29144
+mtgo_foil_id: 29145
+tcgplayer_id: 18002
+cardmarket_id: 18843
+name: Kinsbaile Borderguard
+lang: en
+released_at: '2008-02-01'
+uri: https://api.scryfall.com/cards/82a2e219-9e84-4f54-88e2-3925e48c4827
+scryfall_uri: https://scryfall.com/card/mor/14/kinsbaile-borderguard?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/2/82a2e219-9e84-4f54-88e2-3925e48c4827.jpg?1562879675
+  normal: https://cards.scryfall.io/normal/front/8/2/82a2e219-9e84-4f54-88e2-3925e48c4827.jpg?1562879675
+  large: https://cards.scryfall.io/large/front/8/2/82a2e219-9e84-4f54-88e2-3925e48c4827.jpg?1562879675
+  png: https://cards.scryfall.io/png/front/8/2/82a2e219-9e84-4f54-88e2-3925e48c4827.png?1562879675
+  art_crop: https://cards.scryfall.io/art_crop/front/8/2/82a2e219-9e84-4f54-88e2-3925e48c4827.jpg?1562879675
+  border_crop: https://cards.scryfall.io/border_crop/front/8/2/82a2e219-9e84-4f54-88e2-3925e48c4827.jpg?1562879675
+mana_cost: "{1}{W}{W}"
+cmc: 3.0
+type_line: Creature — Kithkin Soldier
+oracle_text: |-
+  Kinsbaile Borderguard enters the battlefield with a +1/+1 counter on it for each other Kithkin you control.
+  When Kinsbaile Borderguard dies, create a 1/1 white Kithkin Soldier creature token for each counter on it.
+power: '1'
+toughness: '1'
+colors:
+- W
+color_identity:
+- W
+keywords: []
+all_parts:
+- object: related_card
+  id: 82a2e219-9e84-4f54-88e2-3925e48c4827
+  component: combo_piece
+  name: Kinsbaile Borderguard
+  type_line: Creature — Kithkin Soldier
+  uri: https://api.scryfall.com/cards/82a2e219-9e84-4f54-88e2-3925e48c4827
+- object: related_card
+  id: 064ce217-2a93-41ae-b26a-e80cbb2353e4
+  component: token
+  name: Kithkin Soldier
+  type_line: Token Creature — Kithkin Soldier
+  uri: https://api.scryfall.com/cards/064ce217-2a93-41ae-b26a-e80cbb2353e4
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c41550df-7b41-41a3-85ab-8612eb2f168f
+set: mor
+set_name: Morningtide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c41550df-7b41-41a3-85ab-8612eb2f168f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mor?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/82a2e219-9e84-4f54-88e2-3925e48c4827/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab420d983-4edf-4cc1-b442-af2b67e49c76&unique=prints
+collector_number: '14'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: 270caf53-1d5a-438b-8db1-0cc8ff69329c
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 17836
+penny_rank: 7201
+prices:
+  usd: '0.86'
+  usd_foil: '3.09'
+  usd_etched: 
+  eur: '0.62'
+  eur_foil: '1.50'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=152977
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kinsbaile+Borderguard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kinsbaile+Borderguard&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kinsbaile+Borderguard
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/18002?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kinsbaile+Borderguard&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/29144?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

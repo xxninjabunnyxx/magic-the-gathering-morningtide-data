@@ -1,0 +1,116 @@
+---
+object: card
+id: dc5caf12-9358-490b-aafa-fc4d2b8b9b22
+oracle_id: d2964a68-36d9-4b05-8f34-540969b410bf
+multiverse_ids:
+- 153280
+mtgo_id: 29198
+mtgo_foil_id: 29199
+tcgplayer_id: 17947
+cardmarket_id: 18886
+name: Auntie's Snitch
+lang: en
+released_at: '2008-02-01'
+uri: https://api.scryfall.com/cards/dc5caf12-9358-490b-aafa-fc4d2b8b9b22
+scryfall_uri: https://scryfall.com/card/mor/57/aunties-snitch?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/c/dc5caf12-9358-490b-aafa-fc4d2b8b9b22.jpg?1562881877
+  normal: https://cards.scryfall.io/normal/front/d/c/dc5caf12-9358-490b-aafa-fc4d2b8b9b22.jpg?1562881877
+  large: https://cards.scryfall.io/large/front/d/c/dc5caf12-9358-490b-aafa-fc4d2b8b9b22.jpg?1562881877
+  png: https://cards.scryfall.io/png/front/d/c/dc5caf12-9358-490b-aafa-fc4d2b8b9b22.png?1562881877
+  art_crop: https://cards.scryfall.io/art_crop/front/d/c/dc5caf12-9358-490b-aafa-fc4d2b8b9b22.jpg?1562881877
+  border_crop: https://cards.scryfall.io/border_crop/front/d/c/dc5caf12-9358-490b-aafa-fc4d2b8b9b22.jpg?1562881877
+mana_cost: "{2}{B}"
+cmc: 3.0
+type_line: Creature — Goblin Rogue
+oracle_text: |-
+  Auntie's Snitch can't block.
+  Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+  Whenever a Goblin or Rogue you control deals combat damage to a player, if Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your hand.
+power: '3'
+toughness: '1'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Prowl
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: restricted
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: c41550df-7b41-41a3-85ab-8612eb2f168f
+set: mor
+set_name: Morningtide
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/c41550df-7b41-41a3-85ab-8612eb2f168f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Amor&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/mor?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/dc5caf12-9358-490b-aafa-fc4d2b8b9b22/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad2964a68-36d9-4b05-8f34-540969b410bf&unique=prints
+collector_number: '57'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Warren Mahy
+artist_ids:
+- 002c739e-aa1f-4c1d-921b-37cb2d1b1c5b
+illustration_id: 5ce36033-c492-4088-a5c3-e6e9dd9725f1
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 15768
+penny_rank: 6945
+prices:
+  usd: '0.22'
+  usd_foil: '1.80'
+  usd_etched: 
+  eur: '0.45'
+  eur_foil: '1.49'
+  tix: '0.01'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=153280
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Auntie%27s+Snitch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Auntie%27s+Snitch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Auntie%27s+Snitch
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/17947?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Auntie%27s+Snitch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/29198?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
